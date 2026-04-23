@@ -17,8 +17,8 @@ The code here is not production software. It exists to make abstract ideas concr
 Each paper folder has its own `README.md`, you can start there. The code files are standalone Python scripts with no external dependencies.
 
 ```bash
-git clone https://github.com/niluzunoglu/classic-cs-papers
-cd classic-cs-papers/turing/on-computable-numbers-1936
+git clone https://github.com/niluzunoglu/classical-cs-papers
+cd classical-cs-papers/turing/on-computable-numbers-1936
 python section3_example1.py
 ```
 
