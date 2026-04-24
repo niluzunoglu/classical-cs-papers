@@ -12,8 +12,6 @@ Bu dosya hakkında:
     m-fonksiyonlar olarak tanımlar. Bunlar modern programlamadaki
     fonksiyon kavramının 1936'daki karşılığıdır.
 
-    Bu dosya iki katmandan oluşuyor:
-
     Katman 1 — TuringMachine sınıfı:
         §3'teki simülatörün genişletilmiş hali. Tape, head ve state
         yönetimini üstleniyor.
